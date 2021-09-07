@@ -2,7 +2,7 @@
 	<img
 	width="150"
 	src="/images/max-terminal.gif"></br>
-	Tutorial Name<br>     
+	How to secure properties before deployment in Anypoint Studio<br>     
 </h1>
 
 <h4 align="center">
