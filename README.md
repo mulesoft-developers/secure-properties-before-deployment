@@ -8,12 +8,11 @@
 <h4 align="center">
 	<a href="#overview">Overview</a> |
 	<a href="#installation-instructions">Install Me</a> |
-	<a href="#faqs">FAQs</a> |
 	<a href="#contributing">Contribute</a>
 </h4>
 	
 <h3 align="center">
-	This is the tutorial short description<br><br>
+	Learn how to secure your properties before deploying to ensure top security for your code.<br><br>
 </h3>
 
 ## Tutorial and Video
@@ -24,42 +23,30 @@ For a video of the tutorial go [here](https://www.youtube.com/watch?v=5Xd5B_twt9
 
 ## Overview
 
-Detailed Description
+This Mule Application makes use of a Logger component to output the encrypted/secured properties into the console. The properties files are set up depending on the environment in which they're running: local or dev (CloudHub). Make sure to follow the written tutorial to learn how to encrypt the properties.
 
-> This sample application is designed to run on MuleSoft's Anypoint Platform.
+> This application is designed to run on MuleSoft's Anypoint Studio and Anypoint Platform.
 
 ## Installation Instructions
 
-Install instructions
+First you have to download MuleSoft's IDE: Anypoint Studio. After that, you can clone this repository and import it in Studio. You can follow the next steps to install:
 
 1. Set up your environment.
 
 <a href="https://anypoint.mulesoft.com/login/signup" ><img width="250" src="/images/start-platform.png"><a>
 	
 <a href="https://www.mulesoft.com/lp/dl/studio" ><img width="250" src="/images/download-studio.png"><a>
-	
-<a href="https://developer.mulesoft.com/learn/dataweave" ><img width="250" src="/images/open-dataweave.png"><a>
 
-2. <Description>
+2. Clone this repository.
 
-## FAQs
+3. In Anypoint Studio, select `File` > `Import` > `Anypoint Studio` > `Anypoint Studio project from File System` and click Next.
 
-#### How do I ?
+4. Select the cloned repository in the Project Root and make sure to **uncheck** the `Copy project into workspace` option.
 
-Answer.
+5. Click on Finish.
 
 ## Contributing
 
 Contributions are what make the MuleSoft community such an amazing place. Any contributions you make are **greatly appreciated**.
 	
 See [contributing.md](/contributing.md) for the MuleSoft Developer principles.
-
-## Utilities and Dependencies
-
-#### Dependencies
-
--   xxx
-
-#### Code formatting
-
-[Prettier](https://prettier.io/) is a code formatter used to ensure consistent formatting across your code base. To use Prettier with Visual Studio Code, install [this extension](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) from the Visual Studio Code Marketplace. The [.prettierignore](/.prettierignore) and [.prettierrc](/.prettierrc) files are provided as part of this repository to control the behavior of the Prettier formatter.
