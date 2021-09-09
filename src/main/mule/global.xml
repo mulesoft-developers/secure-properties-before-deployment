@@ -10,8 +10,8 @@ http://www.mulesoft.org/schema/mule/secure-properties http://www.mulesoft.org/sc
 		<http:listener-connection host="${http.listener.host}" port="${http.listener.port}" />
 	</http:listener-config>
 	<configuration-properties doc:name="Configuration properties" doc:id="c2c6be66-11fd-47fc-985c-f6ebb9c2d699" file="default.properties" />
-	<global-property doc:name="Global Property" doc:id="605c6cee-c22e-43c8-bcc7-15b4127b30e1" name="env" value="local" />
-	<secure-properties:config name="Secure_Properties_Config" doc:name="Secure Properties Config" doc:id="a0bf205d-0e48-48ad-9740-4a0cca7e45e6" file="${env}.properties" key="${secure.key}" >
+	<global-property doc:name="Global Property" doc:id="a00f765f-bcf2-4882-b59f-c66f0ed7aa94" name="env" value="local" />
+	<secure-properties:config name="Secure_Properties_Config" doc:name="Secure Properties Config" doc:id="d47cc855-cd95-4cea-bdf5-9e66bb3c1fff" file="${env}.secure.properties" key="${secure.key}" >
 		<secure-properties:encrypt algorithm="Blowfish" />
 	</secure-properties:config>
 </mule>
