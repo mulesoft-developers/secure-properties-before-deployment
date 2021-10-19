@@ -17,7 +17,7 @@
 
 ## Tutorial and Video
 
-For a step by step tutorial navigate to the MuleSoft developer website [here](https://www.youtube.com/watch?v=5Xd5B_twt9w)
+For a step by step tutorial navigate to the MuleSoft developer website [here](https://developer.mulesoft.com/tutorials-and-howtos/getting-started/how-to-secure-properties-before-deployment/)
 
 For a video of the tutorial go [here](https://www.youtube.com/watch?v=5Xd5B_twt9w).
 
