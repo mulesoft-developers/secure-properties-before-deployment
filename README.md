@@ -12,14 +12,14 @@
 </h4>
 	
 <h3 align="center">
-	Learn how to secure your properties before deploying to ensure top security for your code.<br><br>
+In this tutorial, we are going to learn how to create secure properties files to store sensitive information such as keys, tokens, or passwords.<br><br>
 </h3>
 
 ## Tutorial and Video
 
-For a step by step tutorial navigate to the MuleSoft developer website [here](https://developer.mulesoft.com/tutorials-and-howtos/getting-started/how-to-secure-properties-before-deployment/)
+For a step by step tutorial navigate to the MuleSoft developer website [here](https://developer.mulesoft.com/tutorials-and-howtos/getting-started/how-to-secure-properties-before-deployment/).
 
-For a video of the tutorial go [here](https://www.youtube.com/watch?v=5Xd5B_twt9w).
+For a video of the tutorial go [here](https://youtu.be/qH6583Wy7Vg).
 
 ## Overview
 
